@@ -1,0 +1,26 @@
+/* id and class definitions. */
+
+#Roseheadline {
+    font: 15pt Tahoma, Verdana;
+    color: rgb(255, 0, 72);
+}
+
+#iframeBuyukluk {
+    width: 500px;
+    height: 250px;
+}
+
+#mamaSatinalin {
+    font: 19pt Tahoma, Verdana;
+    color: rgb(225, 0, 72);
+}
+
+#RoseName {
+    font: 30pt Tahoma, Verdana;
+    color: rgb(255, 0, 72);
+}
+
+#StudentNameSurname {
+    font: 15pt;
+    color: rgb(255, 0, 72);
+}
